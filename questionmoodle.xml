@@ -1,5 +1,5 @@
 <question type="multichoice">
- <answer fraction="100">
+ <answer fraction="150">
      <text>The correct answer</text>
     <feedback><text>Correct!</text></feedback>
  </answer>
